@@ -11,21 +11,21 @@
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
   
   
-   Seccion 1-2 Notacion cientifica 
+  Seccion 1-2 Notacion cientifica 
   
-   1. Exprese cada uno de los numeros siguientes en notacion cientifica:
+  1. Exprese cada uno de los numeros siguientes en notacion cientifica:
   
   
-    a) 3000
-    **300 = 3 x10^3**
+   a) 3000
+   **300 = 3 x10^3**
  
  
-    b) 75,000
-    **75,000= 7.5 x10^4**
+   b) 75,000
+   **75,000= 7.5 x10^4**
   
   
-    c) 2,000,000
-    **2,000,000 = 2 x10^6**
+   c) 2,000,000
+   **2,000,000 = 2 x10^6**
   
   
     3. Exprese cada uno de los numeros siguintes en notacion cientifica:
