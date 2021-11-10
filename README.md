@@ -10,49 +10,55 @@
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
   Seccion 1-2 Notacion cientifica 
+  
+  
   1. Exprese cada uno de los numeros siguientes en notacion cientifica:
   a) 3000
-  300 = 3 x10^3
+  **300 = 3 x10^3**
   b) 75,000
-  75,000= 7.5 x10^4
+  **75,000= 7.5 x10^4**
   c) 2,000,000
-  2,000,000 = 2 x10^6
+  **2,000,000 = 2 x10^6**
+  
+  
   3. Exprese cada uno de los numeros siguintes en notacion cientifica:
-  a) 8400
-  8400 = 8.4 x10^3
+  a) 8400 
+  **8400 = 8.4 x10^3**
   b) 99.000
-  99,000 = 9,9 x10^4
+  **99,000 = 9,9 x10^4**
   c) 0.2 x10^6
-  0.2 x10^6 = 2 x 10^-1(10^6)
-            = 2x 10^5   
-  5. Exprese cada uno de los numeros siguientes en notacion cientifica:
+  **0.2 x10^6 = 2 x 10^-1(10^6)
+            = 2x 10^5 **  
+ 
+ 
+ 5. Exprese cada uno de los numeros siguientes en notacion cientifica:
   a) 32 x10^3
-  32 x10^3 = 3.2 x10^4
+  **32 x10^3 = 3.2 x10^4**
   b) 6800 x10^-6
-  6800 x10^-6 = 6.8 x10^3(10^-6)
-              = 6.8 x10^-3
+  **6800 x10^-6 = 6.8 x10^3(10^-6)
+              = 6.8 x10^-3**
   c) 870 x10^8
-  870 x10^8 = 8.7 x10^2(10^8)
-            = 8.7 x10^10
+  **870 x10^8 = 8.7 x10^2(10^8)
+            = 8.7 x10^10**
   7. Expresecada uno de los numeros siguientes como un numero decimal regular 
   a) 2.5 x10^-6
-  2.5 x 10^-6 = 0.0000025
+  **2.5 x 10^-6 = 0.0000025**
   b) 5.0 x10^2
-  5.0 x10^2 = 500
+  **5.0 x10^2 = 500**
   c) 3.9 x10^-1
-  3.9 x10^-1 = 0.39
+  **3.9 x10^-1 = 0.39**
   9. Sume los numeros siguientes 
   a) (9.2 x10^6)+(3.4 x10^7)
-  expresamos ambos numeros en la misma potencia 
+  **expresamos ambos numeros en la misma potencia 
   9.2 x10^6 + 34 x10^6 = 43.2 x10^6
-                       = 4.32 x10^7
+                       = 4.32 x10^7**
   b) (5 x10^3)+(8.5 x10^-1)
-  expresamos ambos numeros en la misma potencia
+  **expresamos ambos numeros en la misma potencia
   5000+0,85 = 5000,85
-            = 5,00085 x10^3
+            = 5,00085 x10^3**
   c) (5.6 x10^-8)+(4.5 x10^-9)
-  expresamos ambos numeros en la misma potencia
-  5.6 x10^-8 + 0.45 x10^-8 = 6.05 x10^-8
+  **expresamos ambos numeros en la misma potencia
+  5.6 x10^-8 + 0.45 x10^-8 = 6.05 x10^-8**
   11. Realice las siguientes multiplicaciones:
 
   Seccion 1-3 notacion de ingenieria y prefijos metricos
@@ -95,29 +101,59 @@
   Seccion 2–6 El circuito eléctrico
   31.Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la   posición 2.
   ![](https://github.com/jlcastro5/InformeTarea/blob/e1726046c441b63189cae674c6d14e50fe61435c/circuito%202-69.PNG)
+  
   Figura 2-69
+  
+  
   33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+
+
   35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como       sigue:
   VS1 conectada a R1 y VS2 conectada a R2
   o VS1 conectada a R2 y VS2 conectada a R1
+  
+  
+  
   Seccion 2–7 Mediciones de circuito básicas
+  
+  
   37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
   fuente en la figura 2-72.
+  
   ![](https://github.com/jlcastro5/InformeTarea/blob/eb656492d25478f195673aed0c2b971d5f4ef39b/circuito%202-72.PNG)
+  
   Figura 2-72
+  
   39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
   ¿En la posición 2?
+  
+  
   ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/circutio%202.73.PNG)
+  
+  
   41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
   través del resistor y la que sale de la batería.
-  43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+ 
+ 
+ 
+ 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+  
+  
   ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/274.PNG)
+  
+  
   
   45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
   ohmmetro:
+  
+  
   47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
   cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos
-  ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/276.PNG)
+ 
+ 
+ 
+ ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/276.PNG)
+  
   
   
   
