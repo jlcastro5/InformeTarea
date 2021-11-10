@@ -94,9 +94,38 @@
   
   Seccion 2–6 El circuito eléctrico
   31.Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la   posición 2.
+  ![](https://github.com/jlcastro5/InformeTarea/blob/e1726046c441b63189cae674c6d14e50fe61435c/circuito%202-69.PNG)
+  Figura 2-69
+  33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+  35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como       sigue:
+  VS1 conectada a R1 y VS2 conectada a R2
+  o VS1 conectada a R2 y VS2 conectada a R1
+  Seccion 2–7 Mediciones de circuito básicas
+  37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
+  fuente en la figura 2-72.
+  ![](https://github.com/jlcastro5/InformeTarea/blob/eb656492d25478f195673aed0c2b971d5f4ef39b/circuito%202-72.PNG)
+  Figura 2-72
+  39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
+  ¿En la posición 2?
+  ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/circutio%202.73.PNG)
+  41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
+  través del resistor y la que sale de la batería.
+  43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+  ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/274.PNG)
+  
+  45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
+  ohmmetro:
+  47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
+  cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos
+  ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/276.PNG)
+  
+  
+  
   
 4. VIDEO
 
 5. CONCLUSIONES
+
+  *
 
 6. BIBLIOGRAFÍA 
