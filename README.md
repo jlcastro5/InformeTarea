@@ -1,5 +1,8 @@
 # InformeTarea
 1. OBJETIVOS 
+*Objetivo especifico
+
+*Objetivo general 
 
 2. MARCO TEORICO(RESUMEN)
 
