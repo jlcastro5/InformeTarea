@@ -9,94 +9,224 @@
 2. MARCO TEORICO
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
+  
+  
   Seccion 1-2 Notacion cientifica 
   
-  
   1. Exprese cada uno de los numeros siguientes en notacion cientifica:
+  
+  
   a) 3000
   **300 = 3 x10^3**
+ 
+ 
   b) 75,000
   **75,000= 7.5 x10^4**
+  
+  
   c) 2,000,000
   **2,000,000 = 2 x10^6**
   
   
   3. Exprese cada uno de los numeros siguintes en notacion cientifica:
+  
+  
   a) 8400 
   **8400 = 8.4 x10^3**
+ 
+ 
   b) 99.000
   **99,000 = 9,9 x10^4**
+  
+  
   c) 0.2 x10^6
   **0.2 x10^6 = 2 x 10^-1(10^6)
             = 2x 10^5 **  
  
  
  5. Exprese cada uno de los numeros siguientes en notacion cientifica:
+  
+  
   a) 32 x10^3
   **32 x10^3 = 3.2 x10^4**
+  
+  
   b) 6800 x10^-6
   **6800 x10^-6 = 6.8 x10^3(10^-6)
               = 6.8 x10^-3**
+  
+  
   c) 870 x10^8
   **870 x10^8 = 8.7 x10^2(10^8)
             = 8.7 x10^10**
+  
+  
   7. Expresecada uno de los numeros siguientes como un numero decimal regular 
+ 
+ 
+ 
   a) 2.5 x10^-6
   **2.5 x 10^-6 = 0.0000025**
+ 
+ 
+ 
   b) 5.0 x10^2
   **5.0 x10^2 = 500**
+  
+  
+  
   c) 3.9 x10^-1
   **3.9 x10^-1 = 0.39**
-  9. Sume los numeros siguientes 
-  a) (9.2 x10^6)+(3.4 x10^7)
+ 
+ 
+ 
+ 9. Sume los numeros siguientes 
+ 
+ 
+ 
+ a) (9.2 x10^6)+(3.4 x10^7)
   **expresamos ambos numeros en la misma potencia 
   9.2 x10^6 + 34 x10^6 = 43.2 x10^6
                        = 4.32 x10^7**
+  
+  
+  
   b) (5 x10^3)+(8.5 x10^-1)
   **expresamos ambos numeros en la misma potencia
   5000+0,85 = 5000,85
             = 5,00085 x10^3**
-  c) (5.6 x10^-8)+(4.5 x10^-9)
+ 
+ 
+ 
+ c) (5.6 x10^-8)+(4.5 x10^-9)
   **expresamos ambos numeros en la misma potencia
   5.6 x10^-8 + 0.45 x10^-8 = 6.05 x10^-8**
+  
+  
   11. Realice las siguientes multiplicaciones:
 
-  Seccion 1-3 notacion de ingenieria y prefijos metricos
+ 
+ 
+ Seccion 1-3 notacion de ingenieria y prefijos metricos
+  
+  
+  
   13. Exprese cada uno de los elementos siguientes en notacion de ingenieria:
+  
+  
+  
   15. Exprese cada numero en notacion de ingenieria: 
+  
+  
+  
   17. Sume los numeros siguientes y exprese cada resultado en notacion de ingenieria:
+  
+  
+  
   19. Divida los numeros siguientes y exprese cada resultado en notacion de ingenieria:
+  
+  
+  
   21. Exprese cada numero del problema 13 en ohms por medio de un prefijo metrico.
+  
+  
+  
   23. Exprese cada uno de los problemas 15 en amperes por medio de un prefijo metrico. 
+  
+  
+  
   25 Exprese cada cantidad convirtiendo el prefijo metrico en una potencia de 10:
   Seccion 1-4 Conversiones de unidades metricas
-  27. Realice las conversiones indicadas:
+ 
+ 
+ 
+ 27. Realice las conversiones indicadas:
+  
+  
+  
+  
   29. Sume las siguientes cantidades
 
   Seccion 2-2 Carga electrica 
-  1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+ 
+ 
+ 
+ 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+  
+  
+  
   3. ¿Cuántos coulombs de carga poseen 50 x10^31 electrones?
 
+
+
   Seccion 2-3 Voltaje, corriente y resistencia 
+  
+  
+  
   5. Determine el voltaje en cada uno de los siguientes casos:
+  
+  
+  
   7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de   carga a través de
   un resistor?
+  
+  
+  
   9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía   eléctrica en energía
   calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+  
+  
+  
   11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en         amperes?
-  13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+
+
+
+
+13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+  
+  
+  
+  
   15. Determine la conductancia para cada uno de los siguientes valores de resistencia: 
 
+
+
   Seccion 2-4 Fuentes de voltaje y de corriente
+  
+  
+  
+  
   17.Enliste cuatro fuentes de voltaje comunes.
+  
+  
+  
+  
   19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
+  
+  
   Seccion 2-5 Resistores
+  
+  
+  
   21.Determine los valores de resistencia y tolerancia para los siguientes resistores     de 4 bandas
+  
+  
+  
+  
   23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas   y 5% de tolerancia: 330 ohm ,2.2 ohm, 56 ohm, 100 ohm y 39 kohm.
-  25.Determine las bandas de color para cada uno de los siguientes resistores de 4       bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
-  27.Determine las bandas de color para cada uno de los siguientes resistores de 5       bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
-  29.¿Cuál es la resistencia indicada por 4K7?
+
+
+
+
+25.Determine las bandas de color para cada uno de los siguientes resistores de 4       bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+ 
+ 
+ 27.Determine las bandas de color para cada uno de los siguientes resistores de 5       bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+ 
+ 
+ 
+ 29.¿Cuál es la resistencia indicada por 4K7?
   
   Seccion 2–6 El circuito eléctrico
   31.Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la   posición 2.
