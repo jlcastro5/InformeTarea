@@ -11,72 +11,72 @@
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
   
   
-  Seccion 1-2 Notacion cientifica 
+   Seccion 1-2 Notacion cientifica 
   
-  1. Exprese cada uno de los numeros siguientes en notacion cientifica:
+   1. Exprese cada uno de los numeros siguientes en notacion cientifica:
   
   
-  a) 3000
-  **300 = 3 x10^3**
+    a) 3000
+    **300 = 3 x10^3**
  
  
-  b) 75,000
-  **75,000= 7.5 x10^4**
+    b) 75,000
+    **75,000= 7.5 x10^4**
   
   
-  c) 2,000,000
-  **2,000,000 = 2 x10^6**
+    c) 2,000,000
+    **2,000,000 = 2 x10^6**
   
   
-  3. Exprese cada uno de los numeros siguintes en notacion cientifica:
+    3. Exprese cada uno de los numeros siguintes en notacion cientifica:
   
   
-  a) 8400 
-  **8400 = 8.4 x10^3**
+    a) 8400 
+    **8400 = 8.4 x10^3**
  
  
-  b) 99.000
-  **99,000 = 9,9 x10^4**
+    b) 99.000
+    **99,000 = 9,9 x10^4**
   
   
-  c) 0.2 x10^6
-  **0.2 x10^6 = 2 x 10^-1(10^6)
-            = 2x 10^5 **  
+    c) 0.2 x10^6
+    **0.2 x10^6 = 2 x 10^-1(10^6)
+                = 2x 10^5 **  
  
  
- 5. Exprese cada uno de los numeros siguientes en notacion cientifica:
+   5. Exprese cada uno de los numeros siguientes en notacion cientifica:
   
   
-  a) 32 x10^3
-  **32 x10^3 = 3.2 x10^4**
+    a) 32 x10^3
+    **32 x10^3 = 3.2 x10^4**
   
   
-  b) 6800 x10^-6
-  **6800 x10^-6 = 6.8 x10^3(10^-6)
+    b) 6800 x10^-6
+    **6800 x10^-6 = 6.8 x10^3(10^-6)
               = 6.8 x10^-3**
   
   
-  c) 870 x10^8
-  **870 x10^8 = 8.7 x10^2(10^8)
-            = 8.7 x10^10**
+    c) 870 x10^8
+    **870 x10^8 = 8.7 x10^2(10^8)
+                = 8.7 x10^10**
   
   
-  7. Expresecada uno de los numeros siguientes como un numero decimal regular 
+   7. Expresecada uno de los numeros siguientes como un numero decimal regular 
  
  
  
-  a) 2.5 x10^-6
-  **2.5 x 10^-6 = 0.0000025**
+    a) 2.5 x10^-6
+    **2.5 x 10^-6 = 0.0000025**
  
  
- 
-  b) 5.0 x10^2
-  **5.0 x10^2 = 500**
+   
+    b) 5.0 x10^2
+    **5.0 x10^2 = 500**
   
   
   
-  c) 3.9 x10^-1
-  **3.9 x10^-1 = 0.39**
+    c) 3.9 x10^-1
+    **3.9 x10^-1 = 0.39**
  
  
  
@@ -85,21 +85,31 @@
  
  
  a) (9.2 x10^6)+(3.4 x10^7)
+ 
+ 
   **expresamos ambos numeros en la misma potencia 
+  
+  
   9.2 x10^6 + 34 x10^6 = 43.2 x10^6
                        = 4.32 x10^7**
   
   
   
   b) (5 x10^3)+(8.5 x10^-1)
+  
+  
   **expresamos ambos numeros en la misma potencia
+  
+  
   5000+0,85 = 5000,85
             = 5,00085 x10^3**
  
  
  
  c) (5.6 x10^-8)+(4.5 x10^-9)
+ 
   **expresamos ambos numeros en la misma potencia
+  
   5.6 x10^-8 + 0.45 x10^-8 = 6.05 x10^-8**
   
   
