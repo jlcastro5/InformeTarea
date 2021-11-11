@@ -50,7 +50,7 @@
        870 x10^8 = 8.7 x10^2(10^8)
                  = 8.7 x10^10
   
-       7. Expresecada uno de los numeros siguientes como un numero decimal regular 
+       7. Exprese cada uno de los numeros siguientes como un numero decimal regular 
 
        a) 2.5 x10^-6
        2.5 x 10^-6 = 0.0000025
@@ -234,6 +234,8 @@
     Seccion 2-2 Carga electrica 
  
        1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+       
+       Respuesta: 
   
        3. ¿Cuántos coulombs de carga poseen 50 x10^31 electrones?
 
