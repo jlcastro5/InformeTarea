@@ -7,6 +7,7 @@
   * Analizar la estructura atomica, carga electrica para analizar respectivamente diversos tipos de corriente y voltaje para poder describir un circuito y obtener sus respectivas mediciones con los conocimientos adqueridos. 
 
 2. MARCO TEORICO
+ ![](https://github.com/jlcastro5/InformeTarea/blob/edd5cf410d5a55d1fc75ad4f06b9b971582f0410/WhatsApp%20Image%202021-11-10%20at%2023.28.02.jpeg)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
   
@@ -387,22 +388,35 @@
   
       Figura 2-69
       
+       La siguiente imagen representa la trayectoria de la corriente cuando este en la posicion 2 el cual 
+       procedera a prenderse la lampara 2.
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/lampara2.PNG)
       
  
        33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo.
        Determine cuál es este circuito.
        
+       La siguiente imagen esta con interructor SPDT
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/dos%20lamparas.PNG)
        
        35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2)
        al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
                                                   VS1 conectada a R1 y VS2 conectada a R2
                                                  o VS1 conectada a R2 y VS2 conectada a R1
+                                                 
+       En la figura(a) podemos representar arreglo con un interruptor DPDT el cual tiene doble polo y nos permitira
+       ejercer el plantamiento tal que V1 conecta a R1 y V2 conecta R2
                                                 
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/circuito1.PNG)
+      
+      Figura(a)
+      
+       En la figura(b) tenemos el otro caso cuando el interruptor funciona en cambio tendremos que V1 se conecta con
+       R2 y V2 se conecta con R1
      
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/circuito2.PNG)
+      
+      Figura(b)
   
    Seccion 2–7 Mediciones de circuito básicas
  
@@ -430,15 +444,16 @@
        
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/270.PNG)
        
-       Como en la figura (2-70) no se especifica ningun valor, se ha tomado valores arbitrarios para la bateria (9v) 
-       y las recistencias (100 ohms). Como lo pedido en el enunciado es la corriente de las recistencias y la bateria, 
-       la posicion de los amperimetros dentro del circuito deben ser en serie,para la resolucion de esta pregunta se empleo el simulador Tinkercad.
+       En la siguiente imagen se muestra la colocacion debida de los amperimetros ya que estos se los debe 
+       colocar en serie con el circuito para medir su corriente.
        
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/aaa.PNG)
  
        43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
   
       ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/274.PNG)
+       
+       La lectura que se puede apreciar en el medidor es de 250[v]
 
        45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de
        ohmmetro:
@@ -459,16 +474,29 @@
        c) R1
 
       ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/276.PNG)
+      
+       En la siguiente imagen representamos la medicion de corriente, voltaje y resistencia la cual en la imagen superior
+       para medir la resistencia se debe desconectar de la fuente para medir y obtener los valores.
+      
+       En el otro caso para medir corriente y voltaje aplicamos los conocimientos previsto que el amperimetro se coloca
+       en serie y el voltimetro se coloca en paralelo como se muestra en la imagen inferior
   
-      ![]()
-      ![]()
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/AERE.PNG)
+      
   
   
   
 4. VIDEO
 
+https://www.youtube.com/watch?v=l2ABZsKHl2Y
+
 5. CONCLUSIONES
 
-  *
+  * En conclusión, para realizar este informe llevamos a cabo un análisis de las clases impartidas por nuestro tutor, usando también el libro de estudio y las      diapositivas otorgadas por nuestro tutor, en los cuales se llegó a una comprensión de los temas ubicados dentro del primer y segundo capítulo del libro "Principios de Circuitos Eléctricos", los cuales con ejercicios demostrativos y ejercicios propuestos se logró una mejor inmersión dentro de circuitos eléctricos, logrando también elevar nuestro interés como estudiantes, dentro de los temas impartidos.
+  * Por lo tanto, los conocimientos adquiridos en estos capitulos nos ayudaran a fomentar nuestras habilidades lo cuales llevaran a cabo en realizar diferentes ejercicios, y poderlos desarrollar de cualquier forma posible y tener en cuenta la teoria y demostracion dada a cada problema planteado.
 
 6. BIBLIOGRAFÍA 
+ Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
+ 
+
+
