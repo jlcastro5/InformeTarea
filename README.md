@@ -1,9 +1,9 @@
 # InformeTarea
 1. OBJETIVOS 
-* Objetivo general 
-  Conocer y entender los principios fundamentales de los circuitos electricos, partiendo desde la familiarizacion de sus conceptos basicos como son; la notacion cientica, conversion de unidades, simbologia y equivalencias, temas que brindaran las herramientas necesarias para poder comprender como funciona un sistema electronico basico, los elementos que integran un circuito y las unidades de medicion propias de cada uno (voltio, amper y ohm), para logralo se resolvera de manera autonoma problemas y ejercicios relacionados con los items expuestos y de esta manera proporcionar a los estudiantes bases que faciliten el aprendizaje de la asignatura.
+Objetivo general 
+Conocer y entender los principios fundamentales de los circuitos electricos, partiendo desde la familiarizacion de sus conceptos basicos como son; la notacion cientica, conversion de unidades, simbologia y equivalencias, temas que brindaran las herramientas necesarias para poder comprender como funciona un sistema electronico basico, los elementos que integran un circuito y las unidades de medicion propias de cada uno (voltio, amper y ohm), para logralo se resolvera de manera autonoma problemas y ejercicios relacionados con los items expuestos y de esta manera proporcionar a los estudiantes bases que faciliten el aprendizaje de la asignatura.
  
-* Objetivos especificos
+Objetivos específicos
   * Identificar las diferentes notaciones para representar cantidades grandes o pequeñas, practicar sus conversiones y aplicar el uso correcto de prefijos en dichos valores.
   * Analizar la estructura atomica, cargas electricas y como estas se transporta energia para asi poder analizar las diferentes unidades, simbologias y equivalencias electricas.
   * Investigar el funcionamiento de los instrumentos de medición analogos y las codigos de colores de las recistencias de 4 y 5 bandas.
