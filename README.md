@@ -171,7 +171,7 @@
        Resolvemos = 3 uF
        
        b) 3.3 X 10^6 Ohm
-       Resolvemos = 3.3 M ohm 
+       Resolvemos = 3.3 MΩ
        
        c) 350 x 10^-9 A
        Resolvemos = 350 nA
@@ -224,7 +224,7 @@
                   = 120 x 10^3 + 2200 x 10^3
                   = 2320 x 10^3
                   = 2.32 x 10^6
-                  = 2.32 M ohm
+                  = 2.32 M Ω
        c) 0.02 uF + 3300 pF
        Resolvemos = 0.02 x 10^-6 F + 3300 x 10^-12 F
                   = 0.02 x 10^-6 F + 0.0033 x 10^-6 F
@@ -235,9 +235,12 @@
  
        1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
        
-       Respuesta: 
+       Respuesta: 4.64 x10^-18 C.
   
        3. ¿Cuántos coulombs de carga poseen 50 x10^31 electrones?
+       
+       Q=(50 x 10^31)/(6.25x 10^18 )
+       Q= 8.0x1013 C
 
     Seccion 2-3 Voltaje, corriente y resistencia 
   
@@ -269,41 +272,112 @@
        9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
        calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
              
+       I=Q/t       
+       Q=Ixt        
+       Q=2x15        
+       Q=30
        
+       V=W/Q     
+       V=1000/30        
+       V=33.3 [V] 
+
        11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+      
+       I=Q/t    
+       I=0.6/3
+       I=0.2 A 
+
        
        13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+
+       I=Q/t      
+       Q=Ixt         
+       Q=1.5x0.1        
+       Q=0.15 C
   
        15. Determine la conductancia para cada uno de los siguientes valores de resistencia: 
+       Formula de la conductancia 
+                                       G=1/R
+       a) 5  Ω
+       G=1/5
+       G=200 mS
+       
+       b) 25 Ω
+       G=1/25
+       G=40 mS
+       
+       c) 100  Ω
+       G=1/100
+       G=10 mS
+
 
    Seccion 2-4 Fuentes de voltaje y de corriente
   
        17.Enliste cuatro fuentes de voltaje comunes.
+       
+       Fuente de potencia de cd, celda solar, generador, batería 
   
        19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
-
-SECCIÓN 2–5 Resistores  
+       
+       La fuente de potencia convierte voltaje de ca en voltaje de cd.
+   
+    Seccion 2–5 Resistores  
+    
        21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
-  
-       23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:330 ohm,2.2 ohm,56 ohm,100 ohm y 39 kohm.
-
-       25.Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5%.
-
-       a) 0.47 ohm
        
-       b) 270 k Ohm
-        
-       c) 5.1 M ohm
+       a) rojo, violeta, naranja, oro 
+       Respuesta = 27.000 Ω ±5%
        
-       27.Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 %.
+       b) café, gris, rojo, plata 
+       Respuesta = 1800 Ω ± 10%
+
+       23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas 
+       y 5% de tolerancia:330 ohm,2.2 ohm,56 ohm,100 ohm y 39 kohm.
+       
+       a) 330 Ω
+       Respuesta = naranja, naranja, café, oro
+       
+       b) 2.2 kΩ
+       Respuesta = rojo, rojo, rojo, oro 
+       
+       c) 56 kΩ
+       Respuesta = verde, azul, naranja, oro.
+       
+       d) 100 kΩ 
+       Respuesta = café, negro, amarillo, oro
+       
+       e) 39 kΩ
+       Respuesta = naranja, blanco, naranja, oro 
+
+       25.Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas
+       Asuma que cada resistor tiene una tolerancia del 5%.
+
+       a) 0.47 Ω
+       Respuesta = amarillo,violeta,plata y oro
+       
+       b) 270 kΩ
+       Respuesta = rojo,violeta,amarillo y oro
+      
+       c) 5.1 MΩ
+       Respuesta = verde,cafe,verde y oro
+       
+       27.Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas.
+       Asuma que cada resistor tiene tolerancia del 1 %.
  
-       a) 14.7 k ohm
+       a) 14.7 kΩ
+       14.7 kΩ = 14700
+       Respuesta = cafe,amarillo,violeta, rojo y cafe
        
-       b) 39.2 ohm
+       b) 39.2 Ω
+       Respuesta = naranja,blanco,rojo,oro y cafe
        
-       c) 9.76 k ohm
+       c) 9.76 kΩ
+       9.76 kΩ = 9760
+       Respuesta = blanco,violeta,azul,cafe y cafe
        
        29.¿Cuál es la resistencia indicada por 4K7?
+       
+       Respuesta = 4,7 kΩ
   
    Seccion 2–6 El circuito eléctrico
   
@@ -311,13 +385,24 @@ SECCIÓN 2–5 Resistores
        
       ![](https://github.com/jlcastro5/InformeTarea/blob/e1726046c441b63189cae674c6d14e50fe61435c/circuito%202-69.PNG)
   
-       Figura 2-69
+      Figura 2-69
+      
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/lampara2.PNG)
+      
  
-       33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
-
-       35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
+       33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo.
+       Determine cuál es este circuito.
+       
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/dos%20lamparas.PNG)
+       
+       35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2)
+       al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
                                                   VS1 conectada a R1 y VS2 conectada a R2
                                                  o VS1 conectada a R2 y VS2 conectada a R1
+                                                
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/circuito1.PNG)
+     
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/circuito2.PNG)
   
    Seccion 2–7 Mediciones de circuito básicas
  
@@ -326,23 +411,30 @@ SECCIÓN 2–5 Resistores
   
       ![](https://github.com/jlcastro5/InformeTarea/blob/eb656492d25478f195673aed0c2b971d5f4ef39b/circuito%202-72.PNG)
   
-       Figura 2-72
+      Figura 2-72
        
-       Para poder medir la corriente el amperimetro debe conectarce en serie, por otro lado si se requiere medir la carga el voltimetro debe conectarse en paralelo al punto donde se necesita obtener el resultado.
+       Para poder medir la corriente el amperimetro debe conectarce en serie, por otro lado si se requiere 
+       medir la carga el voltimetro debe conectarse en paralelo al punto donde se necesita obtener el resultado.
+       
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/VOLATAJEY.PNG)
   
        39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
        ¿En la posición 2?
 
       ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/circutio%202.73.PNG)
       
-      Respuesta: 
-      Tanto en la posicion N° 1 y en la posicion N° 2 solo encontramos una resistencia, por concepto se sabe que la diferencia de potecial en un elemento es igual al voltaje de entrada menos el de salida, dicho esto podemos concluir que en ambos casos el voltaje sera el mismo producido por la fuente de alimentacion (Vs).
+      
 
        41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
        través del resistor y la que sale de la batería.
        
-       Como en la figura (2-70) no se especifica ningun valor, se ha tomado valores arbitrarios para la bateria (9v) y las recistencias (100 ohms). Como lo pedido en el enunciado es la corriente de las recistencias y la bateria, la posicion de los amperimetros dentro del circuito deben ser en serie. 
-       Para la resolucion de esta pregunta se empleo el simulador Tinkercad.
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/270.PNG)
+       
+       Como en la figura (2-70) no se especifica ningun valor, se ha tomado valores arbitrarios para la bateria (9v) 
+       y las recistencias (100 ohms). Como lo pedido en el enunciado es la corriente de las recistencias y la bateria, 
+       la posicion de los amperimetros dentro del circuito deben ser en serie,para la resolucion de esta pregunta se empleo el simulador Tinkercad.
+       
+      ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/aaa.PNG)
  
        43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
   
@@ -352,9 +444,13 @@ SECCIÓN 2–5 Resistores
        ohmmetro:
        
        a) manecilla en 2, ajuste de intervalo en x10
+       2x10 = 200Ω
        b) manecilla en 15, ajuste de intervalo en x100,000
+       15x100,000 = 1500,000
+                  = 1.5 x 10^6 
+                  = 1.5 M Ω
        c) manecilla en 45, ajuste de intervalo en x100
-       
+       45x100 = 4500 Ω
 
        47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir
        cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos
@@ -364,7 +460,8 @@ SECCIÓN 2–5 Resistores
 
       ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/276.PNG)
   
-  
+      ![]()
+      ![]()
   
   
   
