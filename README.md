@@ -514,7 +514,8 @@ Objetivos específicos
 
 
 6. BIBLIOGRAFÍA 
- Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
  
+ Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
+ Charles K & Sadiku M. (2006).Fundamentos de Circuitos eléctricos: Tercera Edición.
 
 
