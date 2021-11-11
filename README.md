@@ -437,7 +437,14 @@
 
       ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/circutio%202.73.PNG)
       
-      
+       Ya en este plantamiento solo razonaremos el cual en la posicion 1 la corriente de Vs se transmitira hacia la 
+       resistencia R2 el cual su voltaje sera V2 y encambio V1 tendria valor de 0 por no hay corriente que fluya en
+       aquella parte lo cual quedaria como conclusion
+       Vs = V2  y  V1 = 0[V]
+       
+       Ahora en la posicion 2 podremosver que la corriente fluye hacia la resistencia R1 el cual su voltaje es V1 y en
+       cambio se corta la corriente que fluia hacia R2 y quedaria en conclusion
+       Vs = V1  y  V2 = 0[V]
 
        41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
        través del resistor y la que sale de la batería.
@@ -488,7 +495,7 @@
   
 4. VIDEO
 
-https://www.youtube.com/watch?v=l2ABZsKHl2Y
+
 
 5. CONCLUSIONES
 
