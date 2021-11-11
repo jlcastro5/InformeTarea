@@ -325,11 +325,16 @@ SECCIÓN 2–5 Resistores
       ![](https://github.com/jlcastro5/InformeTarea/blob/eb656492d25478f195673aed0c2b971d5f4ef39b/circuito%202-72.PNG)
   
        Figura 2-72
+       
+       Para poder medir la corriente el amperimetro debe conectarce en serie, por otro lado si se requiere medir la carga el voltimetro debe conectarse en paralelo al punto donde se necesita obtener el resultado.
   
        39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
        ¿En la posición 2?
 
       ![](https://github.com/jlcastro5/InformeTarea/blob/f146f2243eaeea37c6c28381f39bea987d1b6a85/circutio%202.73.PNG)
+      
+      Respuesta: 
+      Tanto en la posicion N° 1 y en la posicion N° 2 solo encontramos una resistencia, por concepto se sabe que la diferencia de potecial en un elemento es igual al voltaje de entrada menos el de salida, dicho esto podemos concluir que en ambos casos el voltaje sera el mismo producido por la fuente de alimentacion (Vs).
 
        41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
        través del resistor y la que sale de la batería.
