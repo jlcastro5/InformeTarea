@@ -7,7 +7,7 @@ Conocer y entender los principios fundamentales de los circuitos eléctricos, pa
 
 Objetivos específicos
   * Identificar las diferentes notaciones para representar cantidades grandes o pequeñas, practicar sus conversiones y aplicar el uso correcto de prefijos en dichos valores.
-  * Analizar la estructura atómica, cargas eléctricas y como estas se transporta energía para así poder analizar las diferentes unidades, simbologías y equivalencias eléctricas.
+  * Analizar la estructura atómica, cargas eléctricas y como estas se transforma en energía para así poder analizar las diferentes unidades, simbologías y equivalencias eléctricas.
   * Investigar el funcionamiento de los instrumentos de medición análogos y los códigos de colores de las resistencias de 4 y 5 bandas.
   * Elaboración de circuitos por medio de simuladores para poder entender la relación entre corriente, voltaje y resistencia.
 
