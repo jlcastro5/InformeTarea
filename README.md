@@ -1,10 +1,13 @@
 # InformeTarea
 1. OBJETIVOS 
 * Objetivo general 
-  * Analizar los capitulos respecto a cantidades, unidades y sobre voltaje, corriente y resistencia respectivamentes con sus definiciones y caracteristicas correspondientes para definir su uso correctamente en nuestra especialidad 
+  Conocer y entender los principios fundamentales de los circuitos electricos, partiendo desde la familiarizacion de sus conceptos basicos como son; la notacion cientica, conversion de unidades, simbologia y equivalencias, temas que brindaran las herramientas necesarias para poder comprender como funciona un sistema electronico basico, los elementos que integran un circuito y las unidades de medicion propias de cada uno (voltio, amper y ohm), para logralo se resolvera de manera autonoma problemas y ejercicios relacionados con los items expuestos y de esta manera proporcionar a los estudiantes bases que faciliten el aprendizaje de la asignatura.
+ 
 * Objetivos especificos
-  * Identificar las diferentes notaciones para representar cantidades grandes y pequeñas, y el uso correcto de prefijos para reconocer dichas cantidades. 
-  * Analizar la estructura atomica, carga electrica para analizar respectivamente diversos tipos de corriente y voltaje para poder describir un circuito y obtener sus respectivas mediciones con los conocimientos adqueridos. 
+  * Identificar las diferentes notaciones para representar cantidades grandes o pequeñas, practicar sus conversiones y aplicar el uso correcto de prefijos en dichos valores.
+  * Analizar la estructura atomica, cargas electricas y como estas se transporta energia para asi poder analizar las diferentes unidades, simbologias y equivalencias electricas.
+  * Investigar el funcionamiento de los instrumentos de medición analogos y las codigos de colores de las recistencias de 4 y 5 bandas.
+  * Elaboracion de circuitos por medio de simuladores para poder entender la relación entre corriente, voltaje y resistencia.
 
 2. MARCO TEORICO
  ![](https://github.com/jlcastro5/InformeTarea/blob/edd5cf410d5a55d1fc75ad4f06b9b971582f0410/WhatsApp%20Image%202021-11-10%20at%2023.28.02.jpeg)
@@ -490,9 +493,9 @@
   
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/AERE.PNG)
       
-      Es claro el proceso a realizar cuando se quiere medir corriente y voltaje en algun componente dentro de un circuito electrico, pero el multimetro analogico (figura 2-76) requiere de un conocimiento previo para poder identificar los valores recolectados. Para la corriente que circula dentro de la primera malla (I1) el instrumento debe ser colocado en serie y la perilla debe ubicarse en la zona de inferior izquierda, siendo mas precisos en 12 mA. Hecho esto la aguja se ubicara en entre el 0 y el 2 (1.55 mA). 
+      Es claro el proceso a realizar cuando se quiere medir corriente y voltaje en algun componente dentro de un circuito eléctrico, pero el multímetro análogo (figura 2-76) requiere de un conocimiento previo para poder identificar los valores recolectados. Para la corriente que circula dentro de la primera malla (I1) el instrumento debe ser colocado en serie y la perilla debe ubicarse en la zona de inferior izquierda, siendo mas precisos en 12 mA. Hecho esto la aguja se ubicara en entre el 0 y el 2 (1.55 mA). 
       Para obtener el valor del diferencial de potencial que consume la resistencia de 4.7k Ohm. El multimetro debe conectarse en paralelo y la perilla debe ubicarse en parte superior izquierda, la punta debe embonar en el numero 12 v. Hecho esto la aguja debe ubicarse entre el 6 y 8 (7.3 v).
-      por ultimo, se requiere corroborar si en efecto la resistencia es de 4.7 Ohm, en este caso se procede ubicar la perilla en la parte inferior derecha. El ohmetro debe estar bien regualado y sus puntas a los extremos de la resistencia. La perilla debe señalar la medida de 1 k Ohm, de ser asi la punta de la aguja se ubicara entre el 4 y el 5 (4.7 k Ohm). 
+      Por ultimo, se requiere corroborar si en efecto la resistencia es de 4.7 Ohm, en este caso se procede ubicar la perilla en la parte inferior derecha. El ohmetro debe estar bien regualado y sus puntas a los extremos de la resistencia. La perilla debe señalar la medida de 1 k Ohm, de ser asi la punta de la aguja se ubicara entre el 4 y el 5 (4.7 k Ohm). 
   
   
   
@@ -502,8 +505,9 @@
 
 5. CONCLUSIONES
 
-  * En conclusión, para realizar este informe llevamos a cabo un análisis de las clases impartidas por nuestro tutor, usando también el libro de estudio y las      diapositivas otorgadas por nuestro tutor, en los cuales se llegó a una comprensión de los temas ubicados dentro del primer y segundo capítulo del libro "Principios de Circuitos Eléctricos", los cuales con ejercicios demostrativos y ejercicios propuestos se logró una mejor inmersión dentro de circuitos eléctricos, logrando también elevar nuestro interés como estudiantes, dentro de los temas impartidos.
-  * Por lo tanto, los conocimientos adquiridos en estos capitulos nos ayudaran a fomentar nuestras habilidades lo cuales llevaran a cabo en realizar diferentes ejercicios, y poderlos desarrollar de cualquier forma posible y tener en cuenta la teoria y demostracion dada a cada problema planteado.
+  * El presente trabajo ha permitido al alumnado retroalimentar conocimientos ya adquiridos, mismos que resultaran de vital importancia durante el transcurso de todo el curso de fundamentos de circuitos electricos. La resolucion de los ejercicios impartes del capitulo uno y dos del libro "Principios de circuitos electricos" de Floyd han logrado con exito el fortalecimiento de temas como: Notacion cientifica, conversion de unidades y equivalencias numericas. Esto puede ser evidenciado por los procesos empleados para la resolucion de los ejercicios y la presicion de los resultados obtenidos. 
+  * Los ejercicios del capitulo 2 permitio reforzar los conocimientos impartidos por el tutor en las clases, esta sección motivo a los estudiantes autoeducarse e indagar sobre el funcionamiento de los elementos de medicion, la elaboracion de circuitos electricos, manejar de manera virtual componentes electronicos y sobre todo despertar el interes en la asignatura. De manera indirecta se prepara a los estudiantes para tener problemas en un laboratorio físico. 
+  * Por lo tanto, los conocimientos adquiridos en estos capitulos nos ayudaran a fomentar nuestras habilidades, las cuales permitiran llevaran a cabo la realizacion de diferentes ejercicios, permitiendoles desarrollarlos en cualquier forma posible (virtual - fisica) teniendo en cuenta la teoria y demostracion dada para cada problema planteado.
 
 6. BIBLIOGRAFÍA 
  Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
