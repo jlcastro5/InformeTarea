@@ -338,6 +338,9 @@ SECCIÓN 2–5 Resistores
 
        41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
        través del resistor y la que sale de la batería.
+       
+       Como en la figura (2-70) no se especifica ningun valor, se ha tomado valores arbitrarios para la bateria (9v) y las recistencias (100 ohms). Como lo pedido en el enunciado es la corriente de las recistencias y la bateria, la posicion de los amperimetros dentro del circuito deben ser en serie. 
+       Para la resolucion de esta pregunta se empleo el simulador Tinkercad.
  
        43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
   
