@@ -486,10 +486,13 @@
        para medir la resistencia se debe desconectar de la fuente para medir y obtener los valores.
       
        En el otro caso para medir corriente y voltaje aplicamos los conocimientos previsto que el amperimetro se coloca
-       en serie y el voltimetro se coloca en paralelo como se muestra en la imagen inferior
+       en serie y el voltimetro se coloca en paralelo como se muestra en la imagen inferior.
   
       ![](https://github.com/jlcastro5/InformeTarea/blob/b15d0452ddbbadf198d23e5f673bedfae0258c22/AERE.PNG)
       
+      Es claro el proceso a realizar cuando se quiere medir corriente y voltaje en algun componente dentro de un circuito electrico, pero el multimetro analogico (figura 2-76) requiere de un conocimiento previo para poder identificar los valores recolectados. Para la corriente que circula dentro de la primera malla (I1) el instrumento debe ser colocado en serie y la perilla debe ubicarse en la zona de inferior izquierda, siendo mas precisos en 12 mA. Hecho esto la aguja se ubicara en entre el 0 y el 2 (1.55 mA). 
+      Para obtener el valor del diferencial de potencial que consume la resistencia de 4.7k Ohm. El multimetro debe conectarse en paralelo y la perilla debe ubicarse en parte superior izquierda, la punta debe embonar en el numero 12 v. Hecho esto la aguja debe ubicarse entre el 6 y 8 (7.3 v).
+      por ultimo, se requiere corroborar si en efecto la resistencia es de 4.7 Ohm, en este caso se procede ubicar la perilla en la parte inferior derecha. El ohmetro debe estar bien regualado y sus puntas a los extremos de la resistencia. La perilla debe señalar la medida de 1 k Ohm, de ser asi la punta de la aguja se ubicara entre el 4 y el 5 (4.7 k Ohm). 
   
   
   
