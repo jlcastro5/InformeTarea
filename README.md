@@ -266,11 +266,10 @@
   
        9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
        calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-       Este ejercicio aplicaremos la formula de corriente que es I = Q/t, reemplazando los valores correspondientes al ejercicio
-       I = 1000J / 15 s
-  
+             
+       
        11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
-
+       
        13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
   
        15. Determine la conductancia para cada uno de los siguientes valores de resistencia: 
@@ -281,8 +280,7 @@
   
        19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
-   Seccion 2-5 Resistores
-  
+SECCIÓN 2–5 Resistores  
        21.Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
   
        23.Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:330 ohm,2.2 ohm,56 ohm,100 ohm y 39 kohm.
