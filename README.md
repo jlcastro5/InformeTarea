@@ -3,14 +3,14 @@
 
 Objetivo general
 
-Conocer y entender los principios fundamentales de los circuitos electricos, partiendo desde la familiarizacion de sus conceptos basicos como son; la notacion cientica, conversion de unidades, simbologia y equivalencias, temas que brindaran las herramientas necesarias para poder comprender como funciona un sistema electronico basico, los elementos que integran un circuito y las unidades de medicion propias de cada uno (voltio, amper y ohm), para logralo se resolvera de manera autonoma problemas y ejercicios relacionados con los items expuestos y de esta manera proporcionar a los estudiantes bases que faciliten el aprendizaje de la asignatura.
- 
-Objetivos específicos
+Conocer y entender los principios fundamentales de los circuitos eléctricos, partiendo desde la familiarización de sus conceptos básicos como son; la notación científica, conversión de unidades, simbología y equivalencias, temas que brindaran las herramientas necesarias para poder comprender como funciona un sistema electrónico básico, los elementos que integran un circuito y las unidades de medición propias de cada uno (Voltio, Amper y ohm), para lógralo se resolverá de manera autónoma problemas y ejercicios relacionados con los ítems expuestos y de esta manera proporcionar a los estudiantes bases que faciliten el aprendizaje de la asignatura.
 
+Objetivos específicos
   * Identificar las diferentes notaciones para representar cantidades grandes o pequeñas, practicar sus conversiones y aplicar el uso correcto de prefijos en dichos valores.
-  * Analizar la estructura atomica, cargas electricas y como estas se transporta energia para asi poder analizar las diferentes unidades, simbologias y equivalencias electricas.
-  * Investigar el funcionamiento de los instrumentos de medición analogos y las codigos de colores de las recistencias de 4 y 5 bandas.
-  * Elaboracion de circuitos por medio de simuladores para poder entender la relación entre corriente, voltaje y resistencia.
+  * Analizar la estructura atómica, cargas eléctricas y como estas se transporta energía para así poder analizar las diferentes unidades, simbologías y equivalencias eléctricas.
+  * Investigar el funcionamiento de los instrumentos de medición análogos y los códigos de colores de las resistencias de 4 y 5 bandas.
+  * Elaboración de circuitos por medio de simuladores para poder entender la relación entre corriente, voltaje y resistencia.
+
 
 2. MARCO TEORICO
  ![](https://github.com/jlcastro5/InformeTarea/blob/edd5cf410d5a55d1fc75ad4f06b9b971582f0410/WhatsApp%20Image%202021-11-10%20at%2023.28.02.jpeg)
@@ -508,9 +508,10 @@ Objetivos específicos
 
 5. CONCLUSIONES
 
-  * El presente trabajo ha permitido al alumnado retroalimentar conocimientos ya adquiridos, mismos que resultaran de vital importancia durante el transcurso de todo el curso de fundamentos de circuitos electricos. La resolucion de los ejercicios impartes del capitulo uno y dos del libro "Principios de circuitos electricos" de Floyd han logrado con exito el fortalecimiento de temas como: Notacion cientifica, conversion de unidades y equivalencias numericas. Esto puede ser evidenciado por los procesos empleados para la resolucion de los ejercicios y la presicion de los resultados obtenidos. 
-  * Los ejercicios del capitulo 2 permitio reforzar los conocimientos impartidos por el tutor en las clases, esta sección motivo a los estudiantes autoeducarse e indagar sobre el funcionamiento de los elementos de medicion, la elaboracion de circuitos electricos, manejar de manera virtual componentes electronicos y sobre todo despertar el interes en la asignatura. De manera indirecta se prepara a los estudiantes para tener problemas en un laboratorio físico. 
-  * Por lo tanto, los conocimientos adquiridos en estos capitulos nos ayudaran a fomentar nuestras habilidades, las cuales permitiran llevaran a cabo la realizacion de diferentes ejercicios, permitiendoles desarrollarlos en cualquier forma posible (virtual - fisica) teniendo en cuenta la teoria y demostracion dada para cada problema planteado.
+*	El presente trabajo ha permitido al alumnado retroalimentar conocimientos ya adquiridos, mismos que resultaran de vital importancia durante el transcurso de todo el curso de fundamentos de circuitos eléctricos. La resolución de los ejercicios impartes del capítulo uno y dos del libro "Principios de circuitos eléctricos" de Floyd han logrado con éxito el fortalecimiento de temas como: Notación científica, conversión de unidades y equivalencias numéricas. Esto puede ser evidenciado por los procesos empleados para la resolución de los ejercicios y la precisión de los resultados obtenidos. 
+*	Los ejercicios del capítulo 2 permitió reforzar los conocimientos impartidos por el tutor en las clases, esta sección motivo a los estudiantes auto educarse e indagar sobre el funcionamiento de los elementos de medición, la elaboración de circuitos eléctricos, manejar de manera virtual componentes electrónicos y sobre todo despertar el interés en la asignatura. De manera indirecta se prepara a los estudiantes para tener problemas en un laboratorio físico. 
+*	Por lo tanto, los conocimientos adquiridos en estos capítulos nos ayudaran a fomentar nuestras habilidades, las cuales permitirán llevaran a cabo la realización de diferentes ejercicios, permitiéndoles desarrollarlos en cualquier forma posible (virtual - física) teniendo en cuenta la teoría y demostración dada para cada problema planteado.
+
 
 6. BIBLIOGRAFÍA 
  Floyd,T. L. (2007). Principios de circuitos electricos. Mexico: Octava Edicion.
